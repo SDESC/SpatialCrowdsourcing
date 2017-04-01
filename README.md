@@ -20,7 +20,7 @@
 [5] D Miller，A Kurve，G Kesidis.**Multicategory Crowdsourcing Accounting for Variable Task Difficulty, Worker Skill, and Worker Intention**, IEEE, 2014：794-809. [[PDF]](https://www.computer.org/csdl/trans/tk/preprint/06823710.pdf)
 ***
 ### 众包平台、框架、原型系统  
-[1] D.Haas, J.Ansel, L.Gu and A.Marcus.** Argonaut: Macrotask Crowdsourcing for Complex Data Processing**. VLDB, 2015, 2015：1642-1653.[[PDF]](http://marcua.net/papers/vldb2015-argonaut.pdf)  
+[1] D.Haas, J.Ansel, L.Gu and A.Marcus.**Argonaut: Macrotask Crowdsourcing for Complex Data Processing**. VLDB, 2015, 2015：1642-1653.[[PDF]](http://marcua.net/papers/vldb2015-argonaut.pdf)  
 [2]C. Sun, N. Rampalli , F. Yang and A. Doan. **Chimera: Large-Scale Classiﬁcation using Machine Learning, Rules, and Crowdsourcing**. VLDB, 2014.[[PDF]]()  
 [3] J Fan，M Lu，BC Ooi，WC Tan.**A Hybrid Machine-Crowdsourcing System for Matching Web Tables**. IEEE, 2014:976-987.[[PDF]](http://people.sutd.edu.sg/~meihui_zhang/papers/crowdweb.pdf)  
 ***
@@ -29,7 +29,7 @@
 [1] D.Haas, J.Wang, E.Wu and M.J.Franklin. **CLAMShell: Speeding up Crowds for Low-latency Data Labeling**. VLDB, 2015, 2015:372-383.[[PDF]](http://www.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-10.pdf)  
 [2] H.Hu, Y.Zheng, Z.Bao, G.Li, J.Feng and R.Cheng.  **Crowdsourced POI Labelling: Location-Aware Result Inference and Task Assignment**. ICDE.2016, 2016 :61-72.[[PDF]](http://next.comp.nus.edu.sg/sites/default/files/publication-attachments/165%20Crowdsourced%20POI%20Labelling%20Location-Aware%20Result%20Inference%20and%20Task%20Assignment.pdf)  
 [3] S. Hao, S.C.H .Hoi, C. Miao and P. hao. **Active Crowdsourcing for Annotation**. IEEE Computer Society2015, 2015:1-8.[[PDF]](http://www.ntulily.org/wp-content/uploads/conference/Active_Crowdsourcing_for_Annotation_accepted.pdf)  
-[4] J Gao，X Liu，BC Ooi，H Wang，G Chen.** An Online Cost Sensitive Decision-Making Method in Crowdsourcing Systems**, ACM, 2013:217-228.[[PDF]](http://www.comp.nus.edu.sg/~dbsystem/cdas/pdfs/sigra626-gao.pdf)  
+[4] J Gao，X Liu，BC Ooi，H Wang，G Chen.**An Online Cost Sensitive Decision-Making Method in Crowdsourcing Systems**, ACM, 2013:217-228.[[PDF]](http://www.comp.nus.edu.sg/~dbsystem/cdas/pdfs/sigra626-gao.pdf)  
 [5] V Verroios，P Lofgren，H Garcia-Molina. **tDP: An Optimal-Latency Budget Allocation Strategy for Crowdsourced MAXIMUM Operations**, ACM, 2015:1047-1062.[[PDF]](http://web.stanford.edu/~verroios/papers/maxLowLatencyCameraReady.pdf)  
 ***
 ***
@@ -41,22 +41,22 @@
 [3] Robin Wentao Ouyang and A.Toniolo. **Truth Discovery in Crowdsourced Detection of Spatial Ecents**, CIKM’14 , 2014.[[PDF]](http://eprints.soton.ac.uk/403233/1/TKDE2504928.pdf)  
 [4] Cen Chen, Shih-Fen Cheng, Archan Misra, Hoong Chuin Lau. **Multi-Agent Task Assignment for Mobile Crowdsourcing under Trajectory Uncertainties**. AAMAS, 2015 23(1):1715-1716.[[PDF]](http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=3674&context=sis_research)  
 [5] Hung Dang, Tuan Nguyen，Hien To.**Maximum Complex Task Assignment: Towards Tasks Correlation in Spatial Crowdsourcing**, iiWAS, 2013 2(2):77-81.[[PDF]](http://www-scf.usc.edu/~hto/resources/hung2013mcta.pdf)  
-[6] Hien To, Cyrus Shahabi, Leyla Kazemi.** A Server-Assigned Spatial Crowdsourcing Framework**,2015, 1(1):2:1-2:28.[[PDF]](http://infolab.usc.edu/DocsDemos/to_TSAS15.pdf)  
+[6] Hien To, Cyrus Shahabi, Leyla Kazemi.**A Server-Assigned Spatial Crowdsourcing Framework**,2015, 1(1):2:1-2:28.[[PDF]](http://infolab.usc.edu/DocsDemos/to_TSAS15.pdf)  
 ***
 ### 移动众包任务获取  
-[1] Dingxiong Deng, Cyrus Shahabi, Ugur Demiryurek. ** Maximizing the Number of Worker’s Self-Selected Tasks in Spatial Crowdsourcing**, SIGSPATIAL, 2013:324-333.[[PDF]](http://infolab.usc.edu/DocsDemos/ding-gis13.pdf)  
+[1] Dingxiong Deng, Cyrus Shahabi, Ugur Demiryurek. **Maximizing the Number of Worker’s Self-Selected Tasks in Spatial Crowdsourcing**, SIGSPATIAL, 2013:324-333.[[PDF]](http://infolab.usc.edu/DocsDemos/ding-gis13.pdf)  
 [2] Yu Li, Man Lung Yiu, Wenjian Xu. **Oriented Online Route Recommendation for Spatial Crowdsourcing Task Workers**. SSTD, 2015.[[PDF]](http://www.cs.hku.hk/seminars/2015/20150817.pdf)  
 [3] Cen Chen, Shih-Fen Cheng, Hoong Chuin Lau, Archan Misra. **Towards City-scale Mobile Crowdsourcing: Task Recommendations under Trajectory Uncertainties**, ICJAI 2015.[[PDF]](http://www.mysmu.edu/faculty/sfcheng/pub/2015/ijcai15.pdf)  
 ***
 ### 移动众包平台、原型系统  
 [1] Cyrus Shahabi. **Towards a Generic Framework for Trustworthy Spatial Crowdsourcing**, MobiDE , 2013:1-4.[[PDF]](http://cybergis.cigi.uiuc.edu/cyberGISwiki/lib/exe/fetch.php/ahm13/index/cybergis13-shahabi.pdf)  
-[2] Erfan Davami, Gita Sukthankar. ** Improving the Performance of Mobile Phone Crowdsourcing Applications**, AAMAS, 2015 :145-153.[[PDF]](http://www.aamas2015.com/en/AAMAS_2015_USB/aamas/p145.pdf)    
+[2] Erfan Davami, Gita Sukthankar. **Improving the Performance of Mobile Phone Crowdsourcing Applications**, AAMAS, 2015 :145-153.[[PDF]](http://www.aamas2015.com/en/AAMAS_2015_USB/aamas/p145.pdf)    
 ***
 ### 移动众包激励机制  
-[1] Yue Fan, Hailong Sun, Yanmin Zhu, Xudong Liu, Ji Yuan. ** A Truthful Online Auction for Tempo-spatial Crowdsourcing Tasks**. IEEE, 2015:332-338.[[PDF]](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7133550)  
+[1] Yue Fan, Hailong Sun, Yanmin Zhu, Xudong Liu, Ji Yuan. **A Truthful Online Auction for Tempo-spatial Crowdsourcing Tasks**. IEEE, 2015:332-338.[[PDF]](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7133550)  
 ***
 ### 移动众包与复杂任务  
-[1] Aniket Kittur, Susheel Khamkar, Paul Andre, Robert E. Kraut.** CrowdWeaver : Visually Managing Complex Crowd Word**. CSCW, 2012:1033-1036.[[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.212.9018&rep=rep1&type=pdf)  
-[2] Aniket Kittur, Susheel Khamkar, Paul Andre, Robert E. Kraut.** CrowdForge : Crowdsourcing Complex Work**. UIST, 2011 :43-52.[[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=3BE66EE3E56F471DB6F2CE9CFB28CBFE?doi=10.1.1.206.2060&rep=rep1&type=pdf)  
+[1] Aniket Kittur, Susheel Khamkar, Paul Andre, Robert E. Kraut.**CrowdWeaver : Visually Managing Complex Crowd Word**. CSCW, 2012:1033-1036.[[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.212.9018&rep=rep1&type=pdf)  
+[2] Aniket Kittur, Susheel Khamkar, Paul Andre, Robert E. Kraut.**CrowdForge : Crowdsourcing Complex Work**. UIST, 2011 :43-52.[[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=3BE66EE3E56F471DB6F2CE9CFB28CBFE?doi=10.1.1.206.2060&rep=rep1&type=pdf)  
 ***
 ***
