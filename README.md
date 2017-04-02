@@ -8,9 +8,11 @@
 [2] H Zhuang，A Parameswaran，D Roth，J Han. **Debiasing Crowdsourced Batches**, ACM, 2015:1593.  [[PDF]](http://infolab.stanford.edu/~adityagp/papers/betamain.pdf)  
 [3] M Joglekar，H Garcia-Molina，A Parameswaran. **Evaluating the crowd with confidence**. KDD, 2014:686-694.  [[PDF]](http://chbrown.github.io/kdd-2013-usb/kdd/p686.pdf)  
 [4] M Joglekar，H Garcia-Molina，A Parameswaran. **Comprehensive and Reliable Crowd Assessment Algorithms**. ICDE, 2014.  [[PDF]](http://ilpubs.stanford.edu:8090/1107/1/ICDE15_research_032.pdf)  
+[5] J Feng，G Li，H Wang，J Feng. **Incremental Quality Inference in Crowdsourcing**,DASFAA 2014: Database Systems for Advanced Applications pp 453-467. [[PDF]](https://link.springer.com/chapter/10.1007%2F978-3-319-05813-9_30)  
 ***
 ### 众包任务分配  
 [1] C. Cao, J. She, Y. Tong and L. Chen. **Whom to Ask? Jury Selection for Decision Making Tasks on Micro-blog Services**. VLDB，2012:1495-1506.  [[PDF]](http://dl.acm.org/citation.cfm?id=2350264)  
+[2] Y Zheng，J Wang，G Li，R Cheng，J Feng.**QASCA: A Quality-Aware Task Assignment System for Crowdsourcing Applications**,Sigmod 2015, 107:1031-1046. [[PDF]](http://dl.acm.org/citation.cfm?id=2749430)   
 ***
 ### 众包答案聚合  
 [1] K.Mo, E.Zhong and Q.Yang. **Cross-Task Crowdsourcing**. KDD’13, August 11–14, 2013:677-685. [[PDF]](http://dl.acm.org/citation.cfm?id=2487593)  
@@ -23,6 +25,7 @@
 [1] D.Haas, J.Ansel, L.Gu and A.Marcus.**Argonaut: Macrotask Crowdsourcing for Complex Data Processing**. VLDB, 2015, 2015：1642-1653.[[PDF]](http://marcua.net/papers/vldb2015-argonaut.pdf)  
 [2]C. Sun, N. Rampalli , F. Yang and A. Doan. **Chimera: Large-Scale Classiﬁcation using Machine Learning, Rules, and Crowdsourcing**. VLDB, 2014.[[PDF]]()  
 [3] J Fan，M Lu，BC Ooi，WC Tan.**A Hybrid Machine-Crowdsourcing System for Matching Web Tables**. IEEE, 2014:976-987.[[PDF]](http://people.sutd.edu.sg/~meihui_zhang/papers/crowdweb.pdf)  
+[4]J Fan，G Li，BC Ooi，KL Tan，J Feng.**iCrowd: An Adaptive Crowdsourcing Framework**,Sigmod,2015:1015-1030. [[PDF]](http://dl.acm.org/citation.cfm?id=2750550)  
 ***
 
 ### 众包与其他问题  
@@ -31,6 +34,9 @@
 [3] S. Hao, S.C.H .Hoi, C. Miao and P. hao. **Active Crowdsourcing for Annotation**. IEEE Computer Society2015, 2015:1-8.[[PDF]](http://www.ntulily.org/wp-content/uploads/conference/Active_Crowdsourcing_for_Annotation_accepted.pdf)  
 [4] J Gao，X Liu，BC Ooi，H Wang，G Chen.**An Online Cost Sensitive Decision-Making Method in Crowdsourcing Systems**, ACM, 2013:217-228.[[PDF]](http://www.comp.nus.edu.sg/~dbsystem/cdas/pdfs/sigra626-gao.pdf)  
 [5] V Verroios，P Lofgren，H Garcia-Molina. **tDP: An Optimal-Latency Budget Allocation Strategy for Crowdsourced MAXIMUM Operations**, ACM, 2015:1047-1062.[[PDF]](http://web.stanford.edu/~verroios/papers/maxLowLatencyCameraReady.pdf)  
+***
+### 众包survey  
+[1]G Li，J Wang，Y Zheng，M Franklin.**Crowdsourced Data Management: A Survey**,IEEE,2016,28:1-1. [[PDF]](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7420720)  
 ***
 ***
 ## 2.移动众包  
@@ -42,6 +48,11 @@
 [4] Cen Chen, Shih-Fen Cheng, Archan Misra, Hoong Chuin Lau. **Multi-Agent Task Assignment for Mobile Crowdsourcing under Trajectory Uncertainties**. AAMAS, 2015 23(1):1715-1716.[[PDF]](http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=3674&context=sis_research)  
 [5] Hung Dang, Tuan Nguyen，Hien To.**Maximum Complex Task Assignment: Towards Tasks Correlation in Spatial Crowdsourcing**, iiWAS, 2013 2(2):77-81.[[PDF]](http://www-scf.usc.edu/~hto/resources/hung2013mcta.pdf)  
 [6] Hien To, Cyrus Shahabi, Leyla Kazemi.**A Server-Assigned Spatial Crowdsourcing Framework**,2015, 1(1):2:1-2:28.[[PDF]](http://infolab.usc.edu/DocsDemos/to_TSAS15.pdf)  
+[7] Sofia Amador, Steven Okamoto, Roie Zivan. **Dynamic Multi-Agent Task Allocation with Spatial and Temporal Constraints**. AAAI, 2014, 119(1):1495-1496. [[PDF]](http://dl.acm.org/citation.cfm?id=2616029)  
+[8] Weiqing Wang, Hongzhi Yin, Shazia Sadiq, Ling Chen, Min Xie, Xiaofang Zhou. **SPORE: A Sequential Personalized Spatial Item Recommender System**. ICDE, 2016:954-965. [[PDF]](http://net.pku.edu.cn/daim/hongzhi.yin/papers/ICDE16_research_292.pdf)  
+[9] Jacob Eisenstein, Amr Ahmed, Eric P. Xing. **Sparse Additive Generative Models of Text**. ICML, 2011:1041-1048. [[PDF]](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1214&context=machine_learning)  
+[10] Leyla Kazemi, Cyrus Shahabi, Lei Chen, **GeoTruCrowd: Trustworthy Query Answering with Spatial Crowdsourcing**, SIGSPATIAL, 2013:314-323. [[PDF]](http://infolab.usc.edu/DocsDemos/leyla-GIS13.pdf)  
+
 ***
 ### 移动众包任务获取  
 [1] Dingxiong Deng, Cyrus Shahabi, Ugur Demiryurek. **Maximizing the Number of Worker’s Self-Selected Tasks in Spatial Crowdsourcing**, SIGSPATIAL, 2013:324-333.[[PDF]](http://infolab.usc.edu/DocsDemos/ding-gis13.pdf)  
@@ -51,6 +62,17 @@
 ### 移动众包平台、原型系统  
 [1] Cyrus Shahabi. **Towards a Generic Framework for Trustworthy Spatial Crowdsourcing**, MobiDE , 2013:1-4.[[PDF]](http://cybergis.cigi.uiuc.edu/cyberGISwiki/lib/exe/fetch.php/ahm13/index/cybergis13-shahabi.pdf)  
 [2] Erfan Davami, Gita Sukthankar. **Improving the Performance of Mobile Phone Crowdsourcing Applications**, AAMAS, 2015 :145-153.[[PDF]](http://www.aamas2015.com/en/AAMAS_2015_USB/aamas/p145.pdf)    
+***
+### 移动众包数据整合  
+[1] Matteo Venanzi, Alex Rogers, Nicholas R.Jennings. **Crowdsourcing Spatial Phenomena Using Trust-Based Heteroskedastic Gaussian Process**. AAAI, 2013:182-189. [[PDF]](https://eprints.soton.ac.uk/354861/)    
+***
+### 移动众包安全与隐私
+[1] Hien To , Gabriel Ghinita , Cyrus Shahabi, **PrivGeoCrowd: A Toolbox for Studying Private Spatial Crowdsourcing**, ICDE, 2015:1404-1407. [[PDF]](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7113387)  
+***
+### 移动众包位置预测
+[1] Huiji Gao, Jiliang Tang, Huan Liu.**Mobile Location Prediction in Spatio-Temporal Context**, Springer, Berlin, 2012, 17(1):47-62. [[PDF]](https://pdfs.semanticscholar.org/c1af/0af74d9227591f4464d09d3d4c077e3f53df.pdf)  
+[2] Go ¨khan Yavas, Dimitrios Katsaros , O ¨ zgu ¨r Ulusoy a, Yannis Manolopoulos. **A data mining approach for location prediction in mobile environments**. Data & Knowledge Engineering, 2005:121–146. [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=DDD2C070694BF68519BBF05242F22321?doi=10.1.1.61.5637&rep=rep1&type=pdf)  
+
 ***
 ### 移动众包激励机制  
 [1] Yue Fan, Hailong Sun, Yanmin Zhu, Xudong Liu, Ji Yuan. **A Truthful Online Auction for Tempo-spatial Crowdsourcing Tasks**. IEEE, 2015:332-338.[[PDF]](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7133550)  
