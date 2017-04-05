@@ -34,11 +34,13 @@
 [3] S. Hao, S.C.H .Hoi, C. Miao and P. hao. **Active Crowdsourcing for Annotation**. IEEE Computer Society2015, 2015:1-8.[[PDF]](http://www.ntulily.org/wp-content/uploads/conference/Active_Crowdsourcing_for_Annotation_accepted.pdf)  
 [4] J Gao，X Liu，BC Ooi，H Wang，G Chen.**An Online Cost Sensitive Decision-Making Method in Crowdsourcing Systems**, ACM, 2013:217-228.[[PDF]](http://www.comp.nus.edu.sg/~dbsystem/cdas/pdfs/sigra626-gao.pdf)  
 [5] V Verroios，P Lofgren，H Garcia-Molina. **tDP: An Optimal-Latency Budget Allocation Strategy for Crowdsourced MAXIMUM Operations**, ACM, 2015:1047-1062.[[PDF]](http://web.stanford.edu/~verroios/papers/maxLowLatencyCameraReady.pdf)  
+[6] CJ Zhang，L Chen，HV Jagadish，CC Cao, **Reducing Uncertainty of Schema Matching via Crowdsourcing**, VLDB,2013, 6(9):757-768. [[PDF]](http://db.disi.unitn.eu/pages/VLDBProgram/pdf/research/p697-zhang.pdf)    
+[7] SE Whang，P Lofgren，H Garcia-Molina, **Question Selection for Crowd Entity Resolution**, VLDB,2013, 6(6):349-360. [[PDF]](http://infolab.stanford.edu/~euijong/QuestionSelection.pdf)  
 ***
 ### 众包survey  
 [1]G Li，J Wang，Y Zheng，M Franklin.**Crowdsourced Data Management: A Survey**,IEEE,2016,28:1-1. [[PDF]](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7420720)  
 [2]W Li，WJ Wu，HM Wang，XQ Cheng，HJ Chen, **Crowd intelligence in AI 2.0 era**, Frontiers of Information Technology & Electronic Engineering, 2017, 18(1):15-43. [[PDF]](https://link.springer.com/article/10.1631/FITEE.1601859)  
-[3]Tong, Y.X., Yuan, Y., Cheng, Y.R., et al. **A survey of spatiotemporal crowdsourced data management techniques**. J. Softw., 28(1):35-58 (in Chinese). [[PDF]](http://www.jos.org.cn/ch/reader/view_abstract.aspx?flag=1&file_no=5140&journal_id=jos)  
+[3]Tong, Y.X., Yuan, Y., Cheng, Y.R., et al. **A survey of spatiotemporal crowdsourced data management techniques**. J. Softw., 28(1):35-58 (in Chinese). [[PDF]](http://www.jos.org.cn/ch/reader/create_pdf.aspx?file_no=5140&journal_id=jos)  
 
 ***
 ***
